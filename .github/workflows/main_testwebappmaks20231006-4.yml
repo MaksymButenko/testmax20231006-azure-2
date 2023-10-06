@@ -51,9 +51,18 @@ jobs:
   run-tests:
     runs-on: ubuntu-latest 
     needs: build
+    
     steps:
+      - uses: actions/checkout@v2
+      - name: install
+        run: npm install
+      - name: install2
+        run: ls  
+      - name:
+        run: sudo chmod +x ./node_modules/.bin/eslint
       - name: check linter
-        run: npx eslint .\wwwroot\js\site.js
+        #run: sudo npx eslint ./TestAppMaxForAzure/wwwroot/js/site.js
+        run: sudo ./node_modules/.bin/eslint ./TestAppMaxForAzure/wwwroot/js/site.js
     
   deploy:
     runs-on: ubuntu-latest
