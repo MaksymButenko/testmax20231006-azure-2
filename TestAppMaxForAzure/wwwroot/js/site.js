@@ -11,7 +11,7 @@ function getDaysCaption(days) {
     } else if (days === 5 || days === 6) {
         return " днів.";
     } else {
-        return "[error]";
+        return "[error]"
     }
 
 }
