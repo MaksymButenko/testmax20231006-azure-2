@@ -1,0 +1,7 @@
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\TestAppMaxForAzure.exe
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\TestAppMaxForAzure.dll
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\TestAppMaxForAzure.deps.json
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\TestAppMaxForAzure.runtimeconfig.json
+D:\personal\study\3\github\testmax20231006-azure-2\TestAppMaxForAzure\TestAppMaxForAzure\obj\Release\net7.0\PubTmp\Out\TestAppMaxForAzure.pdb
