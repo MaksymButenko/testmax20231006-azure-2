@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEhGgmfqTUQL4r7nJAJD1zK6avSEdy6qEs8DWYy2IO1Sd/RpmSn8eyThezvxj+YZtqsbK3FiiPlODiFjEH0AXA==",
+  "dgSpecHash": "6f6GJWvEJU28dXXAXCACc0Ft4XvCR7jWpJnKz5xBb3hdk45PuO96fOnFYpZLwmRvetSw1kx1Td9xFb9VsT1Rrw==",
   "success": true,
-  "projectFilePath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Home\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

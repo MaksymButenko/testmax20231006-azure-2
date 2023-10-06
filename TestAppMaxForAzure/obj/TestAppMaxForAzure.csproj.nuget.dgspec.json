@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj": {}
+    "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj": {}
   },
   "projects": {
-    "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj": {
+    "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
+        "projectUniqueName": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
         "projectName": "TestAppMaxForAzure",
-        "projectPath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
+        "projectPath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure.csproj",
         "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-        "outputPath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\TestAppMaxForAzure\\obj\\",
+        "outputPath": "D:\\personal\\study\\3\\github\\testmax20231006-azure-2\\TestAppMaxForAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,12 +40,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.18.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
