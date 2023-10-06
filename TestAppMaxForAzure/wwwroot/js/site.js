@@ -9,9 +9,9 @@ function getDaysCaption(days) {
     } else if (days === 2 || days === 3 || days === 4) {
         return " дня.";
     } else if (days === 5 || days === 6) {
-        return " днів.";
+        return " днівasdasdasd.";
     } else {
-        return "[error]"
+        return "[error]";
     }
 
 }
