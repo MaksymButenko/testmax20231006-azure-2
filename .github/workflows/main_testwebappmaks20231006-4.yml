@@ -36,7 +36,13 @@ jobs:
   run-linter:
     runs-on: ubuntu-latest
     needs: build
+    
     steps:
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+      - name: install
+        run: npm install
       - name: check linter
         run: npx eslint .\wwwroot\js\site.js
   run-tests:
