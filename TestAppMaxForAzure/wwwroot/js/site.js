@@ -28,7 +28,7 @@ function getNextSaturday(date = new Date()) {
     return nextSaturday;
 }
 
-window.addEventListener("load", function () {
+window && window.addEventListener("load", function () {
     var days = (getNextSaturday().getTime() - (new Date()).getTime()) / (1000 * 60 * 60 * 24);
     document.querySelector("#daysLeftContainer").innerHTML = "До наступної субботи залишилося " + days + getDaysCaption(days);
 });
