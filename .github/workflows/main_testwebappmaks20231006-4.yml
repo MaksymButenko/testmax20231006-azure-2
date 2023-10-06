@@ -45,7 +45,7 @@ jobs:
         run: ls  
       - name: check linter
         #run: npx eslint ./TestAppMaxForAzure/wwwroot/js/site.js
-        run: eslint ./TestAppMaxForAzure/wwwroot/js/site.js
+        run: ./node_modules/.bin/eslint ./TestAppMaxForAzure/wwwroot/js/site.js
   run-tests:
     runs-on: ubuntu-latest 
     needs: build
