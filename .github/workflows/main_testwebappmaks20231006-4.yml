@@ -42,7 +42,7 @@ jobs:
       - name: install
         run: npm install
       - name: check linter
-        run: npx eslint .\TestAppMaxForAzure\wwwroot\js\site.js
+        run: npx eslint ./TestAppMaxForAzure/wwwroot/js/site.js
   run-tests:
     runs-on: ubuntu-latest 
     needs: build
